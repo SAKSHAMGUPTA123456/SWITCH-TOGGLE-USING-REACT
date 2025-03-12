@@ -1,0 +1,22 @@
+.hacker{
+
+}
+.firston-off{
+  transform: translatex(50px);
+  width: 40px;
+  border: 2px solid white;
+color: white;
+  border-radius: 60px;
+  background-color: red;
+}
+.firston-on{
+  transform: translatex(0px);
+  border: 2px solid white;
+color: white;
+  border-radius: 60px;
+  width: 30px;
+}
+.super{
+  margin-top: 10px;
+  margin-left: 5px;
+}
