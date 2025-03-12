@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SWITCH-TOGGLE-USING-REACT/static/css/main.75ace7b7.css",
+    "main.js": "/SWITCH-TOGGLE-USING-REACT/static/js/main.891a6b32.js",
+    "static/js/453.b769e3bc.chunk.js": "/SWITCH-TOGGLE-USING-REACT/static/js/453.b769e3bc.chunk.js",
+    "static/media/logo.svg": "/SWITCH-TOGGLE-USING-REACT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SWITCH-TOGGLE-USING-REACT/index.html",
+    "main.75ace7b7.css.map": "/SWITCH-TOGGLE-USING-REACT/static/css/main.75ace7b7.css.map",
+    "main.891a6b32.js.map": "/SWITCH-TOGGLE-USING-REACT/static/js/main.891a6b32.js.map",
+    "453.b769e3bc.chunk.js.map": "/SWITCH-TOGGLE-USING-REACT/static/js/453.b769e3bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75ace7b7.css",
+    "static/js/main.891a6b32.js"
+  ]
+}
